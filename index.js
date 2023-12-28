@@ -12,7 +12,7 @@ document.querySelector("#loadingText").textContent = `Initializing`;
 function setupDefaultStorage() {
     const settingsTemplate = {
         mirror: {
-            val: "nerinyan",
+            val: "mino",
             custom: "",
         },
         mapping: {
