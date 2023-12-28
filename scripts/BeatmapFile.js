@@ -67,6 +67,7 @@ export class BeatmapFile {
                 nerinyan: "https://api.nerinyan.moe/d/",
                 sayobot: "https://dl.sayobot.cn/beatmaps/download/novideo/",
                 chimu: "https://chimu.moe/d/",
+                mino: "https://catboy.best/d/",
             };
 
             if (!urls[selectedMirror] && customURL === "") throw "You need a beatmap mirror download link first!";
